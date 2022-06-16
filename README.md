@@ -1,7 +1,7 @@
 ### <h1>Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Eu sou o Tayonan Henrique Baranoski Stella</h1>
 - 📖 Sou estudante de Engenharia de software
 - 🔭 Estou em busca de um trabalho no ramo da tecnologia
-- 🌱 Estou estudando Python/Django
+- 🌱 Estou estudando Python/Django e MySQL
 - 😄 Pronouns: Ele/Dele
 <div
 
