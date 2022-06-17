@@ -10,7 +10,8 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Tayonan python" height="35" width="100" src="https://img.shields.io/badge/-python-05122A?style=flat&logo=python">
    <img align="center" alt="Tayonan Linux" height="35" width="100" src="https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux">
-    <img align="center" alt="Tayonan unix" height="35" width="100" src="https://img.shields.io/badge/-unix-05122A?style=flat&logo=unix"> 
+    <img align="center" alt="Tayonan unix" height="35" width="100" src="https://img.shields.io/badge/-unix-05122A?style=flat&logo=unix">
+   <img align="center" alt="Tayonan unix" height="35" width="100" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL">
 <div>
 <br>
 <div align="center">
