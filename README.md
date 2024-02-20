@@ -2,7 +2,6 @@
 - 📖 Sou estudante de Engenharia de software
 - 🔭 Estou em busca de um trabalho no ramo da tecnologia
 - 🌱 Estou estudando Python/Django e MySQL
-- 😄 Pronouns: Ele/Dele
 <div
 
 <div align="center">
