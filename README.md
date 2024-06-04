@@ -5,7 +5,7 @@
 <div align="center">
 ### 🛠 Tech Stack 
     <div style="display: inline_block"><br>
-   <img align="center" alt="Tayonan java" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img align="center" alt="Tayonan java" height="45" width="115" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Tayonan python" height="35" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    <img align="center" alt="Tayonan sqlserver" height="35" width="100" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
       <img align="center" alt="Tayonan Linux" height="35" width="100" src="https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux">
