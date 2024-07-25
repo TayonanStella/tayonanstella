@@ -29,7 +29,9 @@
  
  
 </div>
-
+<div>
  </br>
 <p alinhar="Centro"> <imagem alingn="Centro" fonte="https://profile-counter.glitch.me/TayonanStella/count.svg"/></p>
+</imagem>br>
+</div>
 
