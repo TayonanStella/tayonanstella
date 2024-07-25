@@ -28,10 +28,8 @@
   <a href="https://www.linkedin.com/in/tayonan-henrique-baranoski-stella-16ab61147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-</div>
 <div>
  </br>
 <p alinhar="Centro"> <imagem alingn="Centro" fonte="https://profile-counter.glitch.me/TayonanStella/count.svg"/></p>
-</imagem>br>
 </div>
 
