@@ -30,4 +30,5 @@
   
  
 </div>
-  
+</br>
+<p alinhar="Centro"> <imagem alingn="Centro" fonte="https://profile-counter.glitch.me/Formandodev/count.svg"/></p>
